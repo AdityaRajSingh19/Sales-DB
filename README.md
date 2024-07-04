@@ -1,6 +1,6 @@
 # Sales Database Website
 
-This project is a sales database website implemented using PHP, HTML, CSS, and MySQL.
+The Sales Database Website is a PHP-based web application designed for managing product sales data efficiently. It includes user authentication for secure access, CRUD operations to manage products and sales records, and integrates with MySQL for database functionality. Built using PHP 7.3.11 and AMPPS 3.9, with the logo designed using Adobe Illustrator version 23.1.
 
 ## Features
 
